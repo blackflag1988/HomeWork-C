@@ -1,0 +1,15 @@
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\bin\Debug\net6.0\HomeWork_Task13.exe
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\bin\Debug\net6.0\HomeWork_Task13.deps.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\bin\Debug\net6.0\HomeWork_Task13.runtimeconfig.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\bin\Debug\net6.0\HomeWork_Task13.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\bin\Debug\net6.0\HomeWork_Task13.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.AssemblyInfo.cs
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\refint\HomeWork_Task13.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\HomeWork_Task13.genruntimeconfig.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task13\obj\Debug\net6.0\ref\HomeWork_Task13.dll
