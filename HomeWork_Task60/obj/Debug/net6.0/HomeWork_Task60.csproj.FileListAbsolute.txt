@@ -1,0 +1,15 @@
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\bin\Debug\net6.0\HomeWork_Task60.exe
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\bin\Debug\net6.0\HomeWork_Task60.deps.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\bin\Debug\net6.0\HomeWork_Task60.runtimeconfig.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\bin\Debug\net6.0\HomeWork_Task60.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\bin\Debug\net6.0\HomeWork_Task60.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.AssemblyInfo.cs
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\refint\HomeWork_Task60.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\HomeWork_Task60.genruntimeconfig.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_Task60\obj\Debug\net6.0\ref\HomeWork_Task60.dll
