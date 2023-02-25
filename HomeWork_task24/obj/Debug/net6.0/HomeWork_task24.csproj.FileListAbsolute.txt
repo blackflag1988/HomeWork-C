@@ -1,0 +1,15 @@
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\bin\Debug\net6.0\HomeWork_task24.exe
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\bin\Debug\net6.0\HomeWork_task24.deps.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\bin\Debug\net6.0\HomeWork_task24.runtimeconfig.json
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\bin\Debug\net6.0\HomeWork_task24.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\bin\Debug\net6.0\HomeWork_task24.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.AssemblyInfo.cs
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\refint\HomeWork_task24.dll
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.pdb
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\HomeWork_task24.genruntimeconfig.cache
+C:\Users\black\OneDrive\Рабочий стол\Geekbrains\C#\HomeWork\HomeWork_task24\obj\Debug\net6.0\ref\HomeWork_task24.dll
